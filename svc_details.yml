@@ -1,0 +1,12 @@
+---
+svc1:
+  name: svc1
+  ip: 192.168.1.3
+
+svc2:
+  name: svc2
+  ip: 192.168.2.4
+
+svc3:
+  name: svc3
+  ip: 192.168.3.5

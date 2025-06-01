@@ -1,0 +1,12 @@
+---
+con1:
+  name: con1
+  ip: 192.168.3.3
+
+con2:
+  name: con2
+  ip: 192.168.5.4
+
+con3:
+  name: con3
+  ip: 192.168.6.5
